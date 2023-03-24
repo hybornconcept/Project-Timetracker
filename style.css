@@ -1,0 +1,33 @@
+span.css-10trblm.e16nr0p30 {
+  margin-top: -12vh;
+}
+h3#MyClockDisplay {
+  font-size: 500px;
+  color: red;
+  font-family: "Julius Sans One";
+  margin-bottom: -10vh;
+}
+#attendance-tracker {
+  font-family: "Julius Sans One";
+  text-align: center;
+  font-size: 50px;
+}
+footer.css-cio0dv.egzxvld1 {
+  display: none;
+  visibility: hidden;
+}
+button.css-1f1kxg3.edgvbvh10 {
+  padding: 15px;
+  /* background-color: red; */
+  border-radius: 10px;
+  font-family: "Secular One";
+}
+
+div.css-1fv8s86.e16nr0p34 p {
+  font-size: 25px;
+}
+@media screen and (min-width: 600px) and (max-width: 700px) {
+  h3#MyClockDisplay {
+    font-size: 200px;
+  }
+}
